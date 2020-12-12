@@ -14,8 +14,6 @@ body {
     font-size: 48px;
 }
 
-
-
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -43,7 +41,7 @@ a:hover {
 }
 
 p {
-    font-size: 16px;
+    font-size: 20px;
 }
 
 .hero {
@@ -85,6 +83,17 @@ p {
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
+}
+
+.inbound-strategies {
+    font-size: 24px;
+}
+
+.brand-always-aware {
+    font-size: 24px;
+}
+.cost-manage {
+    font-size: 24px;
 }
 
 .benefit-brand {
